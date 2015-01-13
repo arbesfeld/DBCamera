@@ -9,6 +9,7 @@
 #import "DBCameraBaseCropViewController.h"
 #import "DBCameraDelegate.h"
 #import "UIViewController+UIViewController_FullScreen.h"
+#import "GPUImageFilter.h"
 
 @class DBCameraFiltersView;
 

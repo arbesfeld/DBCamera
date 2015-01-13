@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+#import <CoreMotion/CoreMotion.h>
+#import <UIKit/UIKit.h>
 /**
  *  DBMotionManagerRotationHandler handles the current orientation
  */

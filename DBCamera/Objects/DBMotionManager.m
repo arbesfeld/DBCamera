@@ -8,7 +8,6 @@
 
 #import "DBMotionManager.h"
 
-#import <CoreMotion/CoreMotion.h>
 
 @interface DBMotionManager () {
 	CMAccelerometerHandler _motionHandler;

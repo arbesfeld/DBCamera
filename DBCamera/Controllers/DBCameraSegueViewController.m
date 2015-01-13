@@ -15,7 +15,7 @@
 #import "UIImage+TintColor.h"
 #import "GrayscaleContrastFilter.h"
 
-#import <GPUImage/GPUImage.h>
+#import "GPUImage.h"
 
 #define kFilterCellIdentifier @"filterCell"
 
