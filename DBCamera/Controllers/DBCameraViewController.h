@@ -68,12 +68,8 @@
  */
 + (instancetype) initWithDelegate:(id<DBCameraViewControllerDelegate>)delegate;
 
-/**
- *  The init class method
- *
- *  @return A DBCameraViewController
- */
 + (instancetype) init;
+
 
 /**
  *  The init method with a DBCameraViewControllerDelegate and a custom camera view
